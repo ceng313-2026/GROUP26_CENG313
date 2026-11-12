@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local competition data (do not commit data files)
+data/*
+!data/.gitkeep
+
+# Temporary files
+*.log
+.DS_Store
