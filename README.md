@@ -5,9 +5,8 @@ CENG313 Data Science Course Project — WSDM Cup Multilingual Chatbot Arena.
 ## Team
 
 - Group ID: 26
-- Member 1: [Full name] — [Student ID]
-- Member 2: [Full name] — [Student ID]
-- Add or remove member rows to match the official group.
+- Member 1: Muhammet Kağan Kürkçü — 23118080061
+- Member 2: Ömer Coşar — 23118080069
 
 ## Competition
 
