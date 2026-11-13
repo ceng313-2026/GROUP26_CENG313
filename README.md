@@ -12,7 +12,9 @@ CENG313 Data Science Course Project — WSDM Cup Multilingual Chatbot Arena.
 
 [WSDM Cup - Multilingual Chatbot Arena](https://www.kaggle.com/competitions/wsdm-cup-multilingual-chatbot-arena)
 
-The competition is closed. The provided test file contains three records marked `scored=False`; therefore, no official Kaggle leaderboard score is reported for this submission.
+The Kaggle competition was already closed at the time of this project. Therefore, an official Kaggle leaderboard score could not be obtained. Furthermore, the provided test dataset contains only three records marked as `scored=False`, meaning that these records cannot be evaluated by the official leaderboard.
+
+For this reason, model performance was evaluated using a held-out validation set. The reported validation metrics represent our local evaluation results, not an official Kaggle competition score.
 
 ## Repository structure
 
